@@ -20,9 +20,9 @@ import cloudinary.uploader
 import cloudinary.api
 
 cloudinary.config(
-    cloud_name="galeria2",
-    api_key="839797526961269",
-    api_secret="8-bWpm3YGTC4Rahj3RBnJgcE8Dk",
+    cloud_name="alikutepa",
+    api_key="541438742649131",
+    api_secret="JmpoK9k79IFczRf7Bx1fDno4JEY",
     secure=True
 )
 
